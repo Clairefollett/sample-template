@@ -20,6 +20,15 @@
 
 ## Commit Numero Tres
 1. Make a new package.json through npm init
+2. Change description, license, author and <email>
+3. Add github after email in parenthesis
+4. Change scripts test to mocha
+5. npm install --save-dev mocha
+6. npm install --save-dev eslint
+7. Add "pretest": "eslint ." to the package.json
+8. Or you can add "lint": "eslint .", "pretest": "npm run lint".
+9. Add "start": "node server"
+10. Change the main to the same file so node server or you can just get rid of it
 
 
 
