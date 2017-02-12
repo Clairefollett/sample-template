@@ -1,0 +1,19 @@
+{
+  "name": "sample-template",
+  "version": "1.0.0",
+  "description": "Sample template for repository file set up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clairefollett/sample-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clairefollett/sample-template/issues"
+  },
+  "homepage": "https://github.com/Clairefollett/sample-template#readme"
+}
